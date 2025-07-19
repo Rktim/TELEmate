@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/race.png" alt="TELEmate Logo" width="600"/>
+</p>
+
+<h1 align="center">TELEmate</h1>
+
+<p align="center">
+
 # TELEmate - F1 Tyre Degradation Simulator
 
 A comprehensive tyre degradation simulation tool using FastF1 API to analyze tyre performance under different track and racing conditions.
