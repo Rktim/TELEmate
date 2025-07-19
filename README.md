@@ -9,6 +9,15 @@
 # TELEmate - F1 Tyre Degradation Simulator
 
 A comprehensive tyre degradation simulation tool using FastF1 API to analyze tyre performance under different track and racing conditions.
+---
+
+## Demo
+<p align="center">
+  <a href="https://telemate.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Launch%20App-Streamlit%20🚀-brightgreen?style=for-the-badge&logo=streamlit&logoColor=white" alt="Launch App">
+  </a>
+</p>
+
 
 ## Features
 
@@ -18,30 +27,6 @@ A comprehensive tyre degradation simulation tool using FastF1 API to analyze tyr
 - **Interactive Visualizations**: Dynamic charts and graphs for data analysis
 - **Driver Comparison**: Optional driver-specific analysis and comparison
 
-## Installation
-
-1. Clone this repository
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-1. **Interactive Web App (Recommended)**:
-```bash
-streamlit run streamlit_app.py
-```
-
-2. **Basic Tyre Analysis**:
-```python
-python tyre_analysis.py
-```
-
-3. **Driver-Specific Analysis**:
-```python
-python driver_analysis.py --driver "HAM" --track "Monaco"
-```
 
 ## Project Structure
 
@@ -59,6 +44,4 @@ python driver_analysis.py --driver "HAM" --track "Monaco"
 - Driver telemetry and lap times
 - Tyre compound specifications
 
-## Contributing
 
-Feel free to contribute by adding new features, improving models, or enhancing visualizations. 
