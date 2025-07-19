@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/race.png" alt="TELEmate Logo" width="600"/>
+  <img src="race.png" alt="TELEmate Logo" width="600"/>
 </p>
 
 <h1 align="center">TELEmate</h1>
