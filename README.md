@@ -44,4 +44,7 @@ A comprehensive tyre degradation simulation tool using FastF1 API to analyze tyr
 - Driver telemetry and lap times
 - Tyre compound specifications
 
+## License
+
+This project is licensed under the . See the LICENSE file for details.
 
