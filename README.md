@@ -46,5 +46,6 @@ A comprehensive tyre degradation simulation tool using FastF1 API to analyze tyr
 
 ## License
 
-This project is licensed under the . See the LICENSE file for details.
+This project is licensed under the [MIT](LICENSE).
+
 
